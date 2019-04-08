@@ -1,0 +1,37 @@
+08/04/2019
+
+Embrace the Change
+
+<!DOCTYPE> = Tag Essencial
+A Tag   <meta name="viewport" content="width=device-width, initial-scale=1.0"> serve para responsividade.
+
+Propriedades de Tag = charset, name, type
+Atributos de Tag = viewport
+Conteudo = Texto
+
+Tags semanticas:
+- nav
+- header
+- article
+- aside
+- section
+- footer
+
+-----------------------------------------------
+Versionamento GIT
+
+Comandos Terminal
+
+pwd - endereço onde estou (pasta local)
+ls - mostra o que tenho na pasta
+cd - mudar de pasta
+mkdir - cria nova pasta
+touch - cria um arquivo
+clear - limpa tela
+ls -la - mostra o conteudo e detalhes
+---------------------------------------
+Comandos Git
+
+git init - inicializa o repositorio git
+git status - mostra o estágio 
+ 
