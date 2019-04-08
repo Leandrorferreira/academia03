@@ -34,4 +34,16 @@ Comandos Git
 
 git init - inicializa o repositorio git
 git status - mostra o estágio 
- 
+git add - adiciona no repositorio
+git add . - adiciona todos os arquivos a serem commitados
+git commit - confirmar com mensagem
+git log - mostra um log de informações do commit 
+git config user.email "seu_email" - adiciona assinatura de email
+git config user.name "nome" - adiciona assinatura de nome
+git push "endereço remoto".git master - empurrando o codigo para um local
+git clone "endereço" - faz o download do repositorio inteiro
+git diff - exibe as diferenças de modificação do arquivo
+
+untracked - não esta adicionado no repositorio
+unstaged - pronto para ser versionado 
+staged - foram versionados
